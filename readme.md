@@ -11,7 +11,7 @@ Do Básico ao Avançado (SETIC - Finanças Públicas)
 - git commit  
 - Os três estados: modified → staged → committed
 
-**Instrutor**: Gustavo Caraciolo
+**Instrutor**: Ninja Setic
 **Data**: Janeiro 2026  
 **Local**: Luanda, Angola
 
