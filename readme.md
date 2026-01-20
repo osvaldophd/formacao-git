@@ -19,3 +19,5 @@ Do Básico ao Avançado (SETIC - Finanças Públicas)
 Vamos começar!
 
 SDFSD
+
+meu Osvaldo: https://github.com/osvaldophd/exercicio-git.git 
