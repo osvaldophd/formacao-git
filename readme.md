@@ -9,6 +9,7 @@ Do Básico ao Avançado (SETIC - Finanças Públicas)
 - git init  
 - git add  
 - git commit  
+- git Cherry-pick
 - Os três estados: modified → staged → committed
 
 **Instrutor**: Ninja Setic
