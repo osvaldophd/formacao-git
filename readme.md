@@ -15,10 +15,6 @@ Do Básico ao Avançado (SETIC - Finanças Públicas)
 **Data**: Janeiro 2026  
 **Local**: Luanda, Angola
 
-Vamos começar
+Vamos começar!
 
-
-Testanto o stash!!!
-
-
-teste!
+SDFSD
